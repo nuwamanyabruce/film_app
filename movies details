@@ -1,0 +1,27 @@
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ Nullam auctor aliquet justo eget interdum. 
+Nullam sollicitudin tempus enim, hendrerit tincidunt ante finibus quis.
+</p>
+
+<h5>Genres</h5>
+<ul class="list-group">
+<li>Genre 1</li>
+<li>Genre 2</li>
+<li>Genre 3</li>
+
+</ul>
+<a href="#" target="=_black"  class="btn
+">Visit Movie Homepage</a>
+
+<div class="details-bottom">
+  <h2>movie info</h2>
+  <ul>
+    <li><span class="text-secondary">Budget</span>$1,000,000</li>
+
+    <li><span class="text-secondary">Budget</span>$2,000,000</li>
+
+
+</ul>
+
+
+</div>
